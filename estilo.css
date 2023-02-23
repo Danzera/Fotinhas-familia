@@ -1,0 +1,97 @@
+.primeiro {
+    background: #d2d2c1 url('imagens/capa\ de\ fundo2.png') no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+  }
+
+  #alinhamento {
+    padding: 20px;
+    
+    
+  }
+ 
+  #principal {
+    
+    width: 900px;
+   
+}
+
+.todasfotos {
+   
+  border: 10px solid #363636;
+  width: 500px;
+}
+
+.todasfotos1 {
+   
+  border: 10px solid #FF00FF;
+  width: 500px;
+}
+
+
+  .segundo {
+
+    background: #d2d2c1 url('imagens/capa\ de\ fundo3.PNG') no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    padding: 50px;
+    
+  }
+
+  #alinhamento1 {
+    padding: 20px;
+    
+  }
+
+  #principal1 {
+    
+    width: 900px;
+   
+}
+#principal2 {
+    
+  width: 900px;
+ 
+}
+
+
+
+
+
+p { 
+  color: #1C1C1C;
+     
+  }
+
+
+
+
+.terceiro {  background: #d2d2c1 url('imagens/capa-de-fundo1.png') no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  padding: 50px;
+
+}
+
+.todasfotos3 {
+
+  border: 10px solid #6A5ACD;
+}
+
+#alinhamento3 {
+  padding: 20px;
+  
+}
+
+.fontesize {
+  font-size: 20px;
+}
+
+.fontesize1 {
+  font-size: 20px;
+}
+
+.fontesize2 {
+  font-size: 20px;
+}
